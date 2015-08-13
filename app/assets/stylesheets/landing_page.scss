@@ -7,8 +7,15 @@ img.img-responsive.img-circle{
 // 	color:#000;
 // }
 
+section#subscribe {
+    background-color: #222;
+    background-image: url(../assets/map-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 section#subscribe .section-heading {
-    color: #000;
+    color: #fff;
 }
 
 section#subscribe .form-group {
